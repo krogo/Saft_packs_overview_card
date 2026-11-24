@@ -1,0 +1,1306 @@
+{
+ "sensor.saft_bank_a_saft_1_total_voltage": {
+  "entity_id": "sensor.saft_bank_a_saft_1_total_voltage",
+  "state": "51.75",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_total_voltage",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_current": {
+  "entity_id": "sensor.saft_bank_a_saft_1_current",
+  "state": "-8.10",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_current",
+   "unit_of_measurement": "A"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_power": {
+  "entity_id": "sensor.saft_bank_a_saft_1_power",
+  "state": "-419.2",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_power",
+   "unit_of_measurement": "W"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_soc": {
+  "entity_id": "sensor.saft_bank_a_saft_1_soc",
+  "state": "72",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_soc",
+   "unit_of_measurement": "%"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_avg_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_1_avg_cell_v",
+  "state": "3.690",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_avg_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_delta_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_1_delta_cell_v",
+  "state": "0.014",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_delta_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_min_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_1_min_cell_v",
+  "state": "3.683",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_min_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_max_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_1_max_cell_v",
+  "state": "3.696",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_max_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_min_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_1_min_cell",
+  "state": "8",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_min_cell"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_max_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_1_max_cell",
+  "state": "12",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_max_cell"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_temp_1": {
+  "entity_id": "sensor.saft_bank_a_saft_1_temp_1",
+  "state": "20.0",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_temp_1",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_temp_2": {
+  "entity_id": "sensor.saft_bank_a_saft_1_temp_2",
+  "state": "23.0",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_temp_2",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_1_online": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_1_online",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_1_online"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_1_charging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_1_charging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_1_charging"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_1_discharging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_1_discharging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_1_discharging"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_1_balancing": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_1_balancing",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_1_balancing"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_1_errors": {
+  "entity_id": "sensor.saft_bank_a_saft_1_errors",
+  "state": "",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_1_errors"
+  },
+  "last_updated": "2026-11-24T20:48:40.278845+00:00",
+  "last_changed": "2026-11-24T20:48:40.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_total_voltage": {
+  "entity_id": "sensor.saft_bank_a_saft_2_total_voltage",
+  "state": "51.74",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_total_voltage",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_current": {
+  "entity_id": "sensor.saft_bank_a_saft_2_current",
+  "state": "-7.90",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_current",
+   "unit_of_measurement": "A"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_power": {
+  "entity_id": "sensor.saft_bank_a_saft_2_power",
+  "state": "-408.7",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_power",
+   "unit_of_measurement": "W"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_soc": {
+  "entity_id": "sensor.saft_bank_a_saft_2_soc",
+  "state": "74",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_soc",
+   "unit_of_measurement": "%"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_avg_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_2_avg_cell_v",
+  "state": "3.688",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_avg_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_delta_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_2_delta_cell_v",
+  "state": "0.008",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_delta_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_min_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_2_min_cell_v",
+  "state": "3.684",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_min_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_max_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_2_max_cell_v",
+  "state": "3.692",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_max_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_min_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_2_min_cell",
+  "state": "11",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_min_cell"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_max_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_2_max_cell",
+  "state": "8",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_max_cell"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_temp_1": {
+  "entity_id": "sensor.saft_bank_a_saft_2_temp_1",
+  "state": "19.8",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_temp_1",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_temp_2": {
+  "entity_id": "sensor.saft_bank_a_saft_2_temp_2",
+  "state": "20.4",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_temp_2",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_2_online": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_2_online",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_2_online"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_2_charging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_2_charging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_2_charging"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_2_discharging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_2_discharging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_2_discharging"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_2_balancing": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_2_balancing",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_2_balancing"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_2_errors": {
+  "entity_id": "sensor.saft_bank_a_saft_2_errors",
+  "state": "",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_2_errors"
+  },
+  "last_updated": "2026-11-24T20:48:16.278845+00:00",
+  "last_changed": "2026-11-24T20:48:16.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_total_voltage": {
+  "entity_id": "sensor.saft_bank_a_saft_3_total_voltage",
+  "state": "51.75",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_total_voltage",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_current": {
+  "entity_id": "sensor.saft_bank_a_saft_3_current",
+  "state": "-8.40",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_current",
+   "unit_of_measurement": "A"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_power": {
+  "entity_id": "sensor.saft_bank_a_saft_3_power",
+  "state": "-434.7",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_power",
+   "unit_of_measurement": "W"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_soc": {
+  "entity_id": "sensor.saft_bank_a_saft_3_soc",
+  "state": "71",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_soc",
+   "unit_of_measurement": "%"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_avg_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_3_avg_cell_v",
+  "state": "3.690",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_avg_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_delta_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_3_delta_cell_v",
+  "state": "0.014",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_delta_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_min_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_3_min_cell_v",
+  "state": "3.683",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_min_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_max_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_3_max_cell_v",
+  "state": "3.697",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_max_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_min_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_3_min_cell",
+  "state": "6",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_min_cell"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_max_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_3_max_cell",
+  "state": "2",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_max_cell"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_temp_1": {
+  "entity_id": "sensor.saft_bank_a_saft_3_temp_1",
+  "state": "21.5",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_temp_1",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_temp_2": {
+  "entity_id": "sensor.saft_bank_a_saft_3_temp_2",
+  "state": "21.8",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_temp_2",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_3_online": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_3_online",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_3_online"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_3_charging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_3_charging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_3_charging"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_3_discharging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_3_discharging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_3_discharging"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_3_balancing": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_3_balancing",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_3_balancing"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_3_errors": {
+  "entity_id": "sensor.saft_bank_a_saft_3_errors",
+  "state": "",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_3_errors"
+  },
+  "last_updated": "2026-11-24T20:47:52.278845+00:00",
+  "last_changed": "2026-11-24T20:47:52.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_total_voltage": {
+  "entity_id": "sensor.saft_bank_a_saft_4_total_voltage",
+  "state": "51.74",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_total_voltage",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_current": {
+  "entity_id": "sensor.saft_bank_a_saft_4_current",
+  "state": "-7.60",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_current",
+   "unit_of_measurement": "A"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_power": {
+  "entity_id": "sensor.saft_bank_a_saft_4_power",
+  "state": "-393.2",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_power",
+   "unit_of_measurement": "W"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_soc": {
+  "entity_id": "sensor.saft_bank_a_saft_4_soc",
+  "state": "73",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_soc",
+   "unit_of_measurement": "%"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_avg_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_4_avg_cell_v",
+  "state": "3.696",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_avg_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_delta_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_4_delta_cell_v",
+  "state": "0.020",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_delta_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_min_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_4_min_cell_v",
+  "state": "3.686",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_min_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_max_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_4_max_cell_v",
+  "state": "3.705",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_max_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_min_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_4_min_cell",
+  "state": "2",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_min_cell"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_max_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_4_max_cell",
+  "state": "6",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_max_cell"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_temp_1": {
+  "entity_id": "sensor.saft_bank_a_saft_4_temp_1",
+  "state": "21.8",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_temp_1",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_temp_2": {
+  "entity_id": "sensor.saft_bank_a_saft_4_temp_2",
+  "state": "20.2",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_temp_2",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_4_online": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_4_online",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_4_online"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_4_charging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_4_charging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_4_charging"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_4_discharging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_4_discharging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_4_discharging"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_4_balancing": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_4_balancing",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_4_balancing"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_4_errors": {
+  "entity_id": "sensor.saft_bank_a_saft_4_errors",
+  "state": "",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_4_errors"
+  },
+  "last_updated": "2026-11-24T20:23:04.278845+00:00",
+  "last_changed": "2026-11-24T20:23:04.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_total_voltage": {
+  "entity_id": "sensor.saft_bank_a_saft_5_total_voltage",
+  "state": "51.72",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_total_voltage",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_current": {
+  "entity_id": "sensor.saft_bank_a_saft_5_current",
+  "state": "-8.80",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_current",
+   "unit_of_measurement": "A"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_power": {
+  "entity_id": "sensor.saft_bank_a_saft_5_power",
+  "state": "-455.1",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_power",
+   "unit_of_measurement": "W"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_soc": {
+  "entity_id": "sensor.saft_bank_a_saft_5_soc",
+  "state": "70",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_soc",
+   "unit_of_measurement": "%"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_avg_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_5_avg_cell_v",
+  "state": "3.947",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_avg_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_delta_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_5_delta_cell_v",
+  "state": "0.526",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_delta_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_min_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_5_min_cell_v",
+  "state": "3.684",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_min_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_max_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_5_max_cell_v",
+  "state": "4.210",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_max_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_min_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_5_min_cell",
+  "state": "5",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_min_cell"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_max_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_5_max_cell",
+  "state": "12",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_max_cell"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_temp_1": {
+  "entity_id": "sensor.saft_bank_a_saft_5_temp_1",
+  "state": "21.0",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_temp_1",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_temp_2": {
+  "entity_id": "sensor.saft_bank_a_saft_5_temp_2",
+  "state": "20.3",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_temp_2",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_5_online": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_5_online",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_5_online"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_5_charging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_5_charging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_5_charging"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_5_discharging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_5_discharging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_5_discharging"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_5_balancing": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_5_balancing",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_5_balancing"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_5_errors": {
+  "entity_id": "sensor.saft_bank_a_saft_5_errors",
+  "state": "Cell overvoltage",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_5_errors"
+  },
+  "last_updated": "2026-11-24T20:46:58.278845+00:00",
+  "last_changed": "2026-11-24T20:46:58.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_total_voltage": {
+  "entity_id": "sensor.saft_bank_a_saft_6_total_voltage",
+  "state": "51.74",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_total_voltage",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_current": {
+  "entity_id": "sensor.saft_bank_a_saft_6_current",
+  "state": "0.00",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_current",
+   "unit_of_measurement": "A"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_power": {
+  "entity_id": "sensor.saft_bank_a_saft_6_power",
+  "state": "0.0",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_power",
+   "unit_of_measurement": "W"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_soc": {
+  "entity_id": "sensor.saft_bank_a_saft_6_soc",
+  "state": "75",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_soc",
+   "unit_of_measurement": "%"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_avg_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_6_avg_cell_v",
+  "state": "3.687",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_avg_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_delta_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_6_delta_cell_v",
+  "state": "0.007",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_delta_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_min_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_6_min_cell_v",
+  "state": "3.683",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_min_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_max_cell_v": {
+  "entity_id": "sensor.saft_bank_a_saft_6_max_cell_v",
+  "state": "3.690",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_max_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_min_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_6_min_cell",
+  "state": "11",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_min_cell"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_max_cell": {
+  "entity_id": "sensor.saft_bank_a_saft_6_max_cell",
+  "state": "7",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_max_cell"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_temp_1": {
+  "entity_id": "sensor.saft_bank_a_saft_6_temp_1",
+  "state": "21.6",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_temp_1",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_temp_2": {
+  "entity_id": "sensor.saft_bank_a_saft_6_temp_2",
+  "state": "22.5",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_temp_2",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_6_online": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_6_online",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_6_online"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_6_charging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_6_charging",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_6_charging"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_6_discharging": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_6_discharging",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_6_discharging"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "binary_sensor.saft_bank_a_saft_6_balancing": {
+  "entity_id": "binary_sensor.saft_bank_a_saft_6_balancing",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_a_saft_6_balancing"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_a_saft_6_errors": {
+  "entity_id": "sensor.saft_bank_a_saft_6_errors",
+  "state": "",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_a_saft_6_errors"
+  },
+  "last_updated": "2026-11-24T20:46:34.278845+00:00",
+  "last_changed": "2026-11-24T20:46:34.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_total_voltage": {
+  "entity_id": "sensor.saft_bank_b_saft_7_total_voltage",
+  "state": "51.75",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_total_voltage",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_current": {
+  "entity_id": "sensor.saft_bank_b_saft_7_current",
+  "state": "-8.00",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_current",
+   "unit_of_measurement": "A"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_power": {
+  "entity_id": "sensor.saft_bank_b_saft_7_power",
+  "state": "-414.0",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_power",
+   "unit_of_measurement": "W"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_soc": {
+  "entity_id": "sensor.saft_bank_b_saft_7_soc",
+  "state": "69",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_soc",
+   "unit_of_measurement": "%"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_avg_cell_v": {
+  "entity_id": "sensor.saft_bank_b_saft_7_avg_cell_v",
+  "state": "3.688",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_avg_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_delta_cell_v": {
+  "entity_id": "sensor.saft_bank_b_saft_7_delta_cell_v",
+  "state": "0.015",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_delta_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_min_cell_v": {
+  "entity_id": "sensor.saft_bank_b_saft_7_min_cell_v",
+  "state": "3.681",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_min_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_max_cell_v": {
+  "entity_id": "sensor.saft_bank_b_saft_7_max_cell_v",
+  "state": "3.696",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_max_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_min_cell": {
+  "entity_id": "sensor.saft_bank_b_saft_7_min_cell",
+  "state": "8",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_min_cell"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_max_cell": {
+  "entity_id": "sensor.saft_bank_b_saft_7_max_cell",
+  "state": "5",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_max_cell"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_temp_1": {
+  "entity_id": "sensor.saft_bank_b_saft_7_temp_1",
+  "state": "19.4",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_temp_1",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_temp_2": {
+  "entity_id": "sensor.saft_bank_b_saft_7_temp_2",
+  "state": "20.5",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_temp_2",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "binary_sensor.saft_bank_b_saft_7_online": {
+  "entity_id": "binary_sensor.saft_bank_b_saft_7_online",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_b_saft_7_online"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "binary_sensor.saft_bank_b_saft_7_charging": {
+  "entity_id": "binary_sensor.saft_bank_b_saft_7_charging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_b_saft_7_charging"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "binary_sensor.saft_bank_b_saft_7_discharging": {
+  "entity_id": "binary_sensor.saft_bank_b_saft_7_discharging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_b_saft_7_discharging"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "binary_sensor.saft_bank_b_saft_7_balancing": {
+  "entity_id": "binary_sensor.saft_bank_b_saft_7_balancing",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_b_saft_7_balancing"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_7_errors": {
+  "entity_id": "sensor.saft_bank_b_saft_7_errors",
+  "state": "",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_7_errors"
+  },
+  "last_updated": "2026-11-24T20:48:28.278845+00:00",
+  "last_changed": "2026-11-24T20:48:28.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_total_voltage": {
+  "entity_id": "sensor.saft_bank_b_saft_8_total_voltage",
+  "state": "51.76",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_total_voltage",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_current": {
+  "entity_id": "sensor.saft_bank_b_saft_8_current",
+  "state": "-8.20",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_current",
+   "unit_of_measurement": "A"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_power": {
+  "entity_id": "sensor.saft_bank_b_saft_8_power",
+  "state": "-424.5",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_power",
+   "unit_of_measurement": "W"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_soc": {
+  "entity_id": "sensor.saft_bank_b_saft_8_soc",
+  "state": "72",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_soc",
+   "unit_of_measurement": "%"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_avg_cell_v": {
+  "entity_id": "sensor.saft_bank_b_saft_8_avg_cell_v",
+  "state": "3.685",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_avg_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_delta_cell_v": {
+  "entity_id": "sensor.saft_bank_b_saft_8_delta_cell_v",
+  "state": "0.004",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_delta_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_min_cell_v": {
+  "entity_id": "sensor.saft_bank_b_saft_8_min_cell_v",
+  "state": "3.683",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_min_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_max_cell_v": {
+  "entity_id": "sensor.saft_bank_b_saft_8_max_cell_v",
+  "state": "3.687",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_max_cell_v",
+   "unit_of_measurement": "V"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_min_cell": {
+  "entity_id": "sensor.saft_bank_b_saft_8_min_cell",
+  "state": "1",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_min_cell"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_max_cell": {
+  "entity_id": "sensor.saft_bank_b_saft_8_max_cell",
+  "state": "8",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_max_cell"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_temp_1": {
+  "entity_id": "sensor.saft_bank_b_saft_8_temp_1",
+  "state": "19.5",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_temp_1",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_temp_2": {
+  "entity_id": "sensor.saft_bank_b_saft_8_temp_2",
+  "state": "22.1",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_temp_2",
+   "unit_of_measurement": "\u00b0C"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "binary_sensor.saft_bank_b_saft_8_online": {
+  "entity_id": "binary_sensor.saft_bank_b_saft_8_online",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_b_saft_8_online"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "binary_sensor.saft_bank_b_saft_8_charging": {
+  "entity_id": "binary_sensor.saft_bank_b_saft_8_charging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_b_saft_8_charging"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "binary_sensor.saft_bank_b_saft_8_discharging": {
+  "entity_id": "binary_sensor.saft_bank_b_saft_8_discharging",
+  "state": "on",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_b_saft_8_discharging"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "binary_sensor.saft_bank_b_saft_8_balancing": {
+  "entity_id": "binary_sensor.saft_bank_b_saft_8_balancing",
+  "state": "off",
+  "attributes": {
+   "friendly_name": "binary_sensor.saft_bank_b_saft_8_balancing"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ },
+ "sensor.saft_bank_b_saft_8_errors": {
+  "entity_id": "sensor.saft_bank_b_saft_8_errors",
+  "state": "",
+  "attributes": {
+   "friendly_name": "sensor.saft_bank_b_saft_8_errors"
+  },
+  "last_updated": "2026-11-24T20:47:58.278845+00:00",
+  "last_changed": "2026-11-24T20:47:58.278845+00:00"
+ }
+}
